@@ -17,4 +17,4 @@ How to use the script?
 Example of a script execution:
 ![изображение](https://github.com/user-attachments/assets/79235a83-5b09-49d1-9861-605062b97304)
 
-Many thanks to @itdoginfo for providing the guide on setting up domain routing!
+Many thanks to @itdoginfo (https://github.com/itdoginfo) for providing the guide on setting up domain routing!
